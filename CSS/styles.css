@@ -1,0 +1,33 @@
+body {
+  background-color: #94D0CC;/* para criar cores de fundo, o código significa a cor*/
+}
+hr {
+  border-style:dotted;
+  height: 0px;
+  width: 30%;
+}
+h1 {
+  color:black;
+}
+.info {
+  color:black;
+  margin-left: 50px;/* para criar margens, o número significa o tamanho da margem*/
+  margin-right: 50px;
+}
+h3 {
+  color:red;
+  font-style: italic;
+}
+
+/* exemplo comentário */
+#pais{ /* para criar cores em diferentes letras*/
+  color: yellow;
+}
+hr {background-color: #94D0CC;
+border-style: none;
+border-top-style: dotted;
+border-color:Grey;
+border-width: 5px;
+width: 5%;
+
+}
